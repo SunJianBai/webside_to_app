@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "WebsiteToAndroid"
+rootProject.name = "web_to_android"
 include(":app")
  
